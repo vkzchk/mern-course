@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "viacheslav youtube mern",
+  "mongoUri": "mongodb+srv://viacheslav:xphhtbirFgrc3RIW@cluster0-kvs53.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
